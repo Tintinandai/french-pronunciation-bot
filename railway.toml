@@ -8,7 +8,7 @@ healthcheckTimeout = 60
 startCommand = "python bot.py"
 
 [variables]
-BOT_TOKEN = "8733997644:AAFABtv-be_RG_Y4vFuAXFRCcFLsZsbOEKI"
+BOT_TOKEN = "xxxxxxx"
 PORT = "3000"
 PYTHON_VERSION = "3.12"
 MAX_AUDIO_DURATION = "60"
